@@ -12,10 +12,10 @@ Mata Kuliah : Pemrograman Mobile 2
 
 <h4> Tampilan Desain & Projek Login Page </h4>
 
-![Desain Login Page](https://github.com/AzizLike29/LoginPage-UIUXDesign/assets/119909214/71e1acdc-7b8b-4962-a12f-e75c853fc341)
+![Desain Login Page](https://github.com/AzizLike29/LoginPage-UIUXDesign/assets/119909214/fff4e46d-888b-40a9-b8af-55df479d1efc)
 
 <h4> Tampilan Desain UI/UX Sneakers </h4>
 
-![Desain UI UX Sneakers](https://github.com/AzizLike29/LoginPage-UIUXDesign/assets/119909214/30a42cf0-25ce-4ddb-b3ea-d0f3c08ff139)
+![Desain UI UX Sneakers](https://github.com/AzizLike29/LoginPage-UIUXDesign/assets/119909214/0845c3a8-df10-4b1c-978e-38f8bb7eee6f)
 
 <h5> Sekian dan Terima Kasih </h5>
